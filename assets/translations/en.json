@@ -1,0 +1,12 @@
+{
+  "appName": "Boichuk Lab",
+  "goToNewPage": "Go to New Page",
+  "youHavePushedTheButtonThisManyTimes": "You have pushed the button this many times:",
+  "newPage": "New Page :)",
+  "thisIsNewPage": "This is new page",
+  "goToWebView": "Go to web view",
+  "saveTextInSharedPreferences": "Save Text In Shared Preferences",
+  "sharedText": "Shared preference Text: {text}",
+  "deleteSharedText": "Delete Shared Text"
+
+}

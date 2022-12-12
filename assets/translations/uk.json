@@ -1,0 +1,11 @@
+{
+  "appName": "Бойчук Лаб",
+  "goToNewPage": "Перейти на нову сторінку",
+  "youHavePushedTheButtonThisManyTimes": "Ви натискали кнопку стільки разів:",
+  "newPage": "Нова Сторінка :)",
+  "thisIsNewPage": "Це є нова сторінка",
+  "goToWebView": "Перейти до web view",
+  "saveTextInSharedPreferences": "Зберегти текст в Shared Preferences",
+  "sharedText": "Shared preference Текст: {text}",
+  "deleteSharedText": "Видалити Shared Текст"
+}
